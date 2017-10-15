@@ -1,0 +1,10 @@
+C:\Users\Hykudoru\Documents\Visual Studio 2017\Projects\Blurt Reader\Blurt Reader\bin\Debug\Blurt Reader.exe.config
+C:\Users\Hykudoru\Documents\Visual Studio 2017\Projects\Blurt Reader\Blurt Reader\bin\Debug\Blurt Reader.exe
+C:\Users\Hykudoru\Documents\Visual Studio 2017\Projects\Blurt Reader\Blurt Reader\bin\Debug\Blurt Reader.pdb
+C:\Users\Hykudoru\Documents\Visual Studio 2017\Projects\Blurt Reader\Blurt Reader\obj\Debug\Blurt_Reader.Form1.resources
+C:\Users\Hykudoru\Documents\Visual Studio 2017\Projects\Blurt Reader\Blurt Reader\obj\Debug\Blurt_Reader.Properties.Resources.resources
+C:\Users\Hykudoru\Documents\Visual Studio 2017\Projects\Blurt Reader\Blurt Reader\obj\Debug\Blurt Reader.csproj.GenerateResource.Cache
+C:\Users\Hykudoru\Documents\Visual Studio 2017\Projects\Blurt Reader\Blurt Reader\obj\Debug\Blurt Reader.csproj.CoreCompileInputs.cache
+C:\Users\Hykudoru\Documents\Visual Studio 2017\Projects\Blurt Reader\Blurt Reader\obj\Debug\Blurt Reader.exe
+C:\Users\Hykudoru\Documents\Visual Studio 2017\Projects\Blurt Reader\Blurt Reader\obj\Debug\Blurt Reader.pdb
+C:\Users\Hykudoru\Documents\Visual Studio 2017\Projects\Blurt Reader\Blurt Reader\obj\Debug\Blurt Reader.csprojResolveAssemblyReference.cache
